@@ -1,5 +1,9 @@
 {
 	"sd4+":{
 		"is_available":true
-	}
+	},
+	
+	"chenfei_app":{
+		"is_available":true
+	},
 }
