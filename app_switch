@@ -8,6 +8,6 @@
 	},
 	
 	"shanghai_uvc_app":{
-		"is_available":true
+		"is_available":false
 	},
 }
